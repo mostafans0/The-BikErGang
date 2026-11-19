@@ -1,0 +1,3 @@
+# esbuild ships a prebuilt binary via its install script (used by Vite).
+allowBuilds:
+  esbuild: true
